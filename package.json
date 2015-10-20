@@ -1,0 +1,21 @@
+{
+  "name": "hapi-plugin",
+  "version": "1.0.0",
+  "description": "Makes any node module a Hapi Plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "hapi",
+    "plugin",
+    "register",
+    "service locator"
+  ],
+  "author": "Paul Jackson <pjackson@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hapi": "^11.0.1",
+    "mocha": "^2.3.3"
+  }
+}
