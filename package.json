@@ -17,5 +17,19 @@
   "devDependencies": {
     "hapi": "^11.0.1",
     "mocha": "^2.3.3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "hapi": "^11.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulja/hapi-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paulja/hapi-plugin/issues"
+  },
+  "homepage": "https://github.com/paulja/hapi-plugin#readme"
 }
